@@ -2,6 +2,7 @@
 	"name": "@ctx-core/functional",
 	"version": "6.0.6",
 	"description": "ctx-core functional",
+	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
