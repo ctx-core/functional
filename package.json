@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/functional",
-	"version": "6.0.20",
+	"version": "6.0.21",
 	"description": "ctx-core functional",
 	"main": "./index.js",
 	"module": "./index.js",
