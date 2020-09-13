@@ -2,6 +2,20 @@
 	"name": "@ctx-core/functional",
 	"version": "6.0.22",
 	"description": "ctx-core functional",
+	"keywords": [
+		"ctx-core",
+		"functional"
+	],
+	"homepage": "https://github.com/ctx-core/functional#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/functional/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/functional/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
@@ -9,28 +23,14 @@
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile",
-		"exec": "$@"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/functional/issues"
-	},
-	"keywords": [
-		"ctx-core",
-		"functional"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/functional/issues"
-	},
-	"homepage": "https://github.com/ctx-core/functional#readme",
-	"publishConfig": {
-		"access": "public"
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "e4cc0ee714b8932284fae10a1c244a1916311c99"
 }
