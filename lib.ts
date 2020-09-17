@@ -22,9 +22,9 @@ export function _curry(append) {
 	return fn=>{
 		const arity = fn.length
 		return resolver
-		function resolver(...arg_a1__resolver:any[]) {
+		function resolver(...arg_a1__resolver:unknown[]) {
 			const memory = Array.prototype.slice.call(arg_a1__resolver)
-			return function (...arg_a1:any[]) {
+			return function (...arg_a1:unknown[]) {
 				const local = memory.slice()
 				const remaining = Math.max(arity - local.length, 0)
 				append(local, arg_a1.slice(0, remaining))

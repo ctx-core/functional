@@ -2,9 +2,9 @@
  * @module @ctx-core/functional/lib
  * @see {@link http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/}
  */
-export declare const curry: (fn: any) => (...arg_a1__resolver: any[]) => (...arg_a1: any[]) => any;
-export declare const flip: (fn: any) => (...arg_a1__resolver: any[]) => (...arg_a1: any[]) => any;
-export declare const curry__flip: (fn: any) => (...arg_a1__resolver: any[]) => (...arg_a1: any[]) => any;
+export declare const curry: (fn: any) => (...arg_a1__resolver: unknown[]) => (...arg_a1: unknown[]) => any;
+export declare const flip: (fn: any) => (...arg_a1__resolver: unknown[]) => (...arg_a1: unknown[]) => any;
+export declare const curry__flip: (fn: any) => (...arg_a1__resolver: unknown[]) => (...arg_a1: unknown[]) => any;
 /**
  *
  * @param append
@@ -12,23 +12,23 @@ export declare const curry__flip: (fn: any) => (...arg_a1__resolver: any[]) => (
  * @private
  * @see {@link https://medium.com/@kevincennis/currying-in-javascript-c66080543528}
  */
-export declare function _curry(append: any): (fn: any) => (...arg_a1__resolver: any[]) => (...arg_a1: any[]) => any;
+export declare function _curry(append: any): (fn: any) => (...arg_a1__resolver: unknown[]) => (...arg_a1: unknown[]) => any;
 /**
  * map :: Monad m => (a -> b) -> m a -> m b
  */
-export declare const map: (...arg_a1__resolver: any[]) => (...arg_a1: any[]) => any;
+export declare const map: (...arg_a1__resolver: unknown[]) => (...arg_a1: unknown[]) => any;
 /**
  * chain :: Monad m => (a -> m b) -> m a -> m b
  */
-export declare const chain: (...arg_a1__resolver: any[]) => (...arg_a1: any[]) => any;
+export declare const chain: (...arg_a1__resolver: unknown[]) => (...arg_a1: unknown[]) => any;
 /**
  * ap :: Monad m => m (a -> b) -> m a -> m b
  */
-export declare const ap: (...arg_a1__resolver: any[]) => (...arg_a1: any[]) => any;
+export declare const ap: (...arg_a1__resolver: unknown[]) => (...arg_a1: unknown[]) => any;
 /**
  * orElse :: Monad m => m a -> a -> m a
  */
-export declare const orElse: (...arg_a1__resolver: any[]) => (...arg_a1: any[]) => any;
+export declare const orElse: (...arg_a1__resolver: unknown[]) => (...arg_a1: unknown[]) => any;
 /**
  * m1.map(fn).ap(m2)
  * @param {function} m1
@@ -36,4 +36,4 @@ export declare const orElse: (...arg_a1__resolver: any[]) => (...arg_a1: any[]) 
  * @param {module:ctx-core/functional/lib~maybe} m2 - applied `maybe`
  * @returns {module:ctx-core/functional/lib~maybe}
  */
-export declare const liftA2: (...arg_a1__resolver: any[]) => (...arg_a1: any[]) => any;
+export declare const liftA2: (...arg_a1__resolver: unknown[]) => (...arg_a1: unknown[]) => any;
