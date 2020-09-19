@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 7.0.0
+
+### Major Changes
+
+- Typescript strict checking
+
 ## 6.0.24
 
 ### Patch Changes
