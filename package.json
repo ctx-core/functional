@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/functional",
-	"version": "7.0.3",
+	"version": "7.0.4",
 	"description": "ctx-core functional",
 	"keywords": [
 		"ctx-core",
@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"devDependencies": {
-		"typescript": "^4.0.5"
+		"typescript": "^4.1.2"
 	},
 	"publishConfig": {
 		"access": "public"
