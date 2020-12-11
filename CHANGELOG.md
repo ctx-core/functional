@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 7.0.5
+
+### Patch Changes
+
+- typescript: ^4.1.2 -> ^4.1.3
+
 ## 7.0.4
 
 ### Patch Changes
