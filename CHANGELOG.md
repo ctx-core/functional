@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 7.0.6
+
+### Patch Changes
+
+- - .rush
+
 ## 7.0.5
 
 ### Patch Changes
