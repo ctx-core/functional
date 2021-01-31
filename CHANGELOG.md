@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 8.0.0
+
+### Major Changes
+
+- src directory
+
 ## 7.0.6
 
 ### Patch Changes
