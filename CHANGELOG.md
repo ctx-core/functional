@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 8.0.8
+
+### Patch Changes
+
+- version bump
+
 ## 8.0.7
 
 ### Patch Changes
