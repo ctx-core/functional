@@ -1,5 +1,15 @@
 # @ctx-core/functional
 
+## 9.0.0
+
+### Major Changes
+
+- only supporting \_curry,curry,flip: - ap,chain,lifA2,map,orElse
+
+### Minor Changes
+
+- "noImplicitAny": true
+
 ## 8.0.10
 
 ### Patch Changes
