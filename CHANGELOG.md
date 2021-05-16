@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 9.0.1
+
+### Patch Changes
+
+- fix: target: 2018: nodejs compatability
+
 ## 9.0.0
 
 ### Major Changes
