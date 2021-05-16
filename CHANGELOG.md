@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 9.0.2
+
+### Patch Changes
+
+- .npmignore: + ~
+
 ## 9.0.1
 
 ### Patch Changes
