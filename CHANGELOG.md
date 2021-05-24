@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 9.1.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+
 ## 9.1.0
 
 ### Minor Changes
