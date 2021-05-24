@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 9.1.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
 ## 9.0.3
 
 ### Patch Changes
