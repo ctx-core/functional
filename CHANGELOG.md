@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 9.2.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
 ## 9.1.1
 
 ### Patch Changes
