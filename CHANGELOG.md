@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 10.0.1
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+
 ## 10.0.0
 
 ### Major Changes
