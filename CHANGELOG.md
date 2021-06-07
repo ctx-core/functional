@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 10.0.2
+
+### Patch Changes
+
+- version bump: run build
+
 ## 10.0.1
 
 ### Patch Changes
