@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 11.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
 ## 10.0.2
 
 ### Patch Changes

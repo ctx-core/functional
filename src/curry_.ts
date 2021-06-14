@@ -8,8 +8,8 @@ export function curry_<ResolverArg extends unknown = unknown>(append:current__ap
 	return (fn:Function)=>{
 		const arity = fn.length
 		return resolver as curry__resolver_T<ResolverArg>
-		function resolver(...resolver_arg_a1:ResolverArg[]) {
-			const memory = Array.prototype.slice.call(resolver_arg_a1) as ResolverArg[]
+		function resolver(...resolver_arg_a:ResolverArg[]) {
+			const memory = Array.prototype.slice.call(resolver_arg_a) as ResolverArg[]
 			return resolver2 as curry__resolver_T<ResolverArg>
 			function resolver2(...arg_a:ResolverArg[]) {
 				const local = memory.slice()
