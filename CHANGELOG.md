@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 11.0.5
+
+### Patch Changes
+
+- "prepare": "npm run clean && npm run compile"
+
 ## 11.0.4
 
 ### Patch Changes
