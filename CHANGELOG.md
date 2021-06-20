@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 11.0.3
+
+### Patch Changes
+
+- fix: npm run clean
+
 ## 11.0.2
 
 ### Patch Changes
