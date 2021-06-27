@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 11.0.9
+
+### Patch Changes
+
+- dist directory
+
 ## 11.0.8
 
 ### Patch Changes
