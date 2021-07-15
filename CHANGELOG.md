@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 12.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
 ## 11.0.10
 
 ### Patch Changes
