@@ -1,4 +1,4 @@
-import { current__append_T, curry_ } from './curry_'
+import { current__append_T, curry_ } from './curry_.js'
 export function flip<ResolverArg extends unknown = unknown>(append:current__append_T<ResolverArg>) {
 	return (
 		curry_(

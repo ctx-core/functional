@@ -1,3 +1,3 @@
-export * from './curry_'
-export * from './curry'
-export * from './flip'
+export * from './curry_.js'
+export * from './curry.js'
+export * from './flip.js'
