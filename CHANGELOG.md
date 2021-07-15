@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 12.0.3
+
+### Patch Changes
+
+- fix: module imports;types
+
 ## 12.0.2
 
 ### Patch Changes
