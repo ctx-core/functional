@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 12.0.8
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+
 ## 12.0.7
 
 ### Patch Changes
