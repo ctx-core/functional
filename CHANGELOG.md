@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 12.0.13
+
+### Patch Changes
+
+- fix: "exports": "./package.json": "./package.json"
+
 ## 12.0.12
 
 ### Patch Changes
