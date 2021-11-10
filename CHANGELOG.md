@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 12.0.17
+
+### Patch Changes
+
+- compile using swc
+
 ## 12.0.16
 
 ### Patch Changes
