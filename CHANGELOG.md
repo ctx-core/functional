@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 12.0.22
+
+### Patch Changes
+
+- @swc/core: ^1.2.113 -> ^1.2.116
+
 ## 12.0.21
 
 ### Patch Changes
