@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 12.0.26
+
+### Patch Changes
+
+- package.json: - module
+
 ## 12.0.25
 
 ### Patch Changes
