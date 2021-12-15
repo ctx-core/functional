@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 12.0.29
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 12.0.28
 
 ### Patch Changes
