@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 12.0.31
+
+### Patch Changes
+
+- fix: build
+
 ## 12.0.30
 
 ### Patch Changes
