@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 12.0.35
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 12.0.34
 
 ### Patch Changes
