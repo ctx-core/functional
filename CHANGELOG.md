@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 12.0.36
+
+### Patch Changes
+
+- version bump
+
 ## 12.0.35
 
 ### Patch Changes
