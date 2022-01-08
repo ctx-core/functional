@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/functional",
-	"version": "12.0.37",
+	"version": "12.0.38",
 	"description": "ctx-core functional",
 	"keywords": [
 		"ctx-core",
@@ -44,5 +44,6 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js"
+	"svelte": "./lib/index.js",
+	"sideEffects": false
 }

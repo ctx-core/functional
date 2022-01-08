@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 12.0.38
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 12.0.37
 
 ### Patch Changes
