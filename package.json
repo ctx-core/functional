@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/functional",
-	"version": "12.0.38",
+	"version": "12.0.39",
 	"description": "ctx-core functional",
 	"keywords": [
 		"ctx-core",
@@ -19,9 +19,7 @@
 	"type": "module",
 	"types": "./lib/index.d.ts",
 	"exports": {
-		".": {
-			"import": "./lib/index.js"
-		},
+		".": "./lib/index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {
