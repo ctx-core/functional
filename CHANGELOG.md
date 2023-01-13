@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 12.0.40
+
+### Patch Changes
+
+- rimraf: ^3.0.2 -> ^4.0.1
+
 ## 12.0.39
 
 ### Patch Changes
