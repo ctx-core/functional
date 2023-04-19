@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 12.1.19
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+
 ## 12.1.18
 
 ### Patch Changes
