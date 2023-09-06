@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 12.1.20
+
+### Patch Changes
+
+- version bump
+
 ## 12.1.19
 
 ### Patch Changes
