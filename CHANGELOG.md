@@ -1,5 +1,11 @@
 # @ctx-core/functional
 
+## 12.2.197
+
+### Patch Changes
+
+- ctx-core: ^7.2.23 -> ^7.2.24
+
 ## 12.2.196
 
 ### Patch Changes
